@@ -29,7 +29,7 @@ def analyze_message_with_llm(message_text: str, api_key: Optional[str] = None) -
         raise ValueError("Google API Key not detected.")
 
     llm = ChatGoogleGenerativeAI(
-        model="gemini-2.5-flash",
+        model: "gemini-3.6-flash",
         temperature=0.0,
         google_api_key=active_key,
     )
