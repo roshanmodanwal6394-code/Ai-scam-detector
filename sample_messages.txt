@@ -1,0 +1,11 @@
+=== SAMPLE 1: HIGH RISK FINANCIAL FRAUD ===
+URGENT: Your HDFC Bank debit card ending with 4012 has been suspended due to suspicious activity. Click http://hdfc-security-kyc.top/login immediately and enter your CVV and 6-digit OTP to unblock within 15 minutes. Failure to comply will result in permanent account termination.
+
+=== SAMPLE 2: HIGH RISK LOTTERY / SOCIAL ENGINEERING ===
+Congratulations! Your mobile number has been selected as the 1st prize winner of ₹50,00,000 in the Jio KBC Lucky Draw 2026! To claim your cash prize directly in your bank account, send your Aadhaar Card copy and transfer processing fee of ₹4,999 to UPI: claim@upi.
+
+=== SAMPLE 3: MEDIUM RISK SUSPICIOUS PHISHING ===
+Hello Dear Customer, your package #IN88921 could not be delivered due to an incomplete street address. Please confirm your delivery address details within 24 hours at http://track-indiapost-serv.cc or your parcel will be returned to sender.
+
+=== SAMPLE 4: SAFE / BENIGN MESSAGE ===
+Hi Rahul, are we still meeting today at 6:00 PM for the project discussion at the college canteen? Let me know if you are bringing your laptop.
